@@ -5,6 +5,8 @@ A simple and stylish login form created using HTML and CSS. The form features in
 ## Repository Name
 **Login-Form-HTML-CSS**
 
+![Login Form Preview](Screenshot%202024-01-29%20214709.png)
+
 ## Usage
 1. **Clone the repository:**
    ```bash
